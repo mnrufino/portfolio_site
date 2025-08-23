@@ -10,6 +10,7 @@ Este é um site simples de **portfólio acadêmico**, desenvolvido em **HTML + C
 
 ## 🚀 Como acessar
 O site está hospedado no **GitHub Pages**:  
-👉 [Acessar o site](https://mnrufino.github.io/portfolio-academico/)
+👉 [Acessar o site](https://mnrufino.github.io/portfolio_site/)
+
 
 
